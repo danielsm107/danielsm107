@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Daniel Serrano, and I'm a Systems Administrator focused on Linux, virtualization, networking, and cloud — currently aiming to grow in the cybersecurity field.
+
+🔭 I’m currently working at Cadifone as a Networking Technician.
+
+🌱 I’m currently learning CTFS (TryHackMe & Hack The Box ), Python automation, cloud security, and Docker orchestration.
+
+👯 I’m looking to collaborate on open-source infrastructure, automation, and cybersecurity projects.
 
 <!--
 **danielsm107/danielsm107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
