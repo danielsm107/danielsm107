@@ -24,7 +24,7 @@ My name is Daniel Serrano, and I'm a Systems Administrator focused on Linux, vir
 
 - **Cybersecurity**: Hardening, firewalling, OSINT basics
 
-### 🧪 Homelab [Media-Server created on Proxmox explained](https://github.com/danielsm107/media-server)
+### 🧪 Homelab ([Media-Server created on Proxmox explained](https://github.com/danielsm107/media-server))
 
 - **Full virtualization environment running on Proxmox**
 
@@ -35,7 +35,7 @@ My name is Daniel Serrano, and I'm a Systems Administrator focused on Linux, vir
 - **Containers and modular services using Docker & Docker Compose**
 
 ### 📦 Featured Projects
-- **License Plate Recognition System ([Wiki of the project](https://deepwiki.com/danielsm107/control-acceso-matriculas)) (![Repository of the Project (Spanish)](https://github.com/danielsm107/control-acceso-matriculas))**
+- **License Plate Recognition System ([Wiki of the project](https://deepwiki.com/danielsm107/control-acceso-matriculas)) ([Repository of the Project (Spanish)](https://github.com/danielsm107/control-acceso-matriculas))**
 Image processing on Raspberry Pi + API and web backend hosted on a VPS (DigitalOcean).
 Deployed using Docker, Nginx, and SSL with Let's Encrypt.
 
